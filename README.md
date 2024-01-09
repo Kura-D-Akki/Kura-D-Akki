@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kura-d-akki&label=Profile%20views&color=0e75b6&style=flat" alt="kura-d-akki" /> </p>
 
-- 🔭 I’m currently working on **enhancing my expertise on GoLang and ReactJS**
+- 🔭 I’m currently working on **enhancing my expertise on niche areas of Software Engineering such as Architecture & System design, Ads, Distrubuted Systems and more**
 
 - 🌱 I’m currently learning **GoLang**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akhil02kura@gmail.com**
 
-- ⚡ Fun fact **I have expertise in working for MNCs, including an S&P 500 company.**
+- ⚡ Fun fact **I have worked for various for MNCs, including an S&P 500 company.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
